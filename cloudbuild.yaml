@@ -7,5 +7,5 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/playground-s-11-6f337b88/locations/us-west3/workerPools/A1'  
+    name: 'projects/playground-s-11-6f337b88/locations/us-west4/workerPools/A1'  
     
