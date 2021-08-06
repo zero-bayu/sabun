@@ -5,7 +5,4 @@ steps:
   timeout: 86400s
 timeout: 86400s
 
-options:
-  pool:
-    name: 'projects/playground-s-11-6f337b88/locations/us-west4/workerPools/A1'  
     
