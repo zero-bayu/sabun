@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-03-85f8d72241ba/locations/europe-north1/workerPools/BOKU'  
+    name: 'projects/qwiklabs-gcp-03-85f8d72241ba/locations/europe-west1/workerPools/BOKU'  
  
     
 
