@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-00-8ca2262095c5/locations/europe-west6/workerPools/ANATA'  
+    name: 'projects/qwiklabs-gcp-00-8ca2262095c5/locations/northamerica-northeast1/workerPools/ANATA'  
  
     
 
