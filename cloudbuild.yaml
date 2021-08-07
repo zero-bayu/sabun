@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-02-366b18b9a65d/locations/us-west1/workerPools/HVASU1'  
+    name: 'projects/qwiklabs-gcp-02-366b18b9a65d/locations/us-west2/workerPools/HVASU1'  
  
     
 
