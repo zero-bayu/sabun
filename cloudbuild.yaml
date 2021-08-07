@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-04-bad4061be78e/locations/us-west2/workerPools/ORA'  
+    name: 'projects/qwiklabs-gcp-04-bad4061be78e/locations/us-west3/workerPools/ORA'  
  
     
 
