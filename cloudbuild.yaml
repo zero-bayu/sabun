@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-00-66a89d79e4ea/locations/europe-north1/workerPools/ANO'
+    name: 'projects/qwiklabs-gcp-00-66a89d79e4ea/locations/europe-west1/workerPools/ANO'
 
 
 
