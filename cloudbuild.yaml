@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-03-a3fa22d7c32d/locations/asia-northeast1/workerPools/SABUN'
+    name: 'projects/qwiklabs-gcp-03-a3fa22d7c32d/locations/asia-northeast2/workerPools/SABUN'
 
 
 
